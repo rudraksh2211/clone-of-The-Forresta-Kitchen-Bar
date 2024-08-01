@@ -42,10 +42,10 @@ Explore the website to see the cloned features and design. The website includes 
 
 Include screenshots of the website to showcase its design and functionality. For example:
 
-![Home Page](screenshots/home.png)
-![Menu Page](screenshots/menu.png)
-![Reservations Page](screenshots/reservations.png)
-![Contact Page](screenshots/contact.png)
+<img src="1.jpg"></img>
+<img src="2.jpg"></img>
+<img src="3.jpg"></img>
+<img src="4.jpg"></img>
 
 ## Contributing
 
