@@ -2,17 +2,6 @@
 
 Welcome to the clone repository of the Forresta Restaurant and Bar website. This project is a recreation of the original website which can be found [here](https://www.theforrestakitchenbar.com/). The clone is built using PHP, HTML, CSS, JavaScript, jQuery, and Bootstrap.
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 
