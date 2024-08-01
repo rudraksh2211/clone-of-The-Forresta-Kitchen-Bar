@@ -61,7 +61,12 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
 
-Your Name - [rudraksh dusad](mailto:rudraksh.dusad2211@gmail.com)
+## [+] Find Me On :
 
+[![Github](https://img.shields.io/badge/Instagram-Rudraksh-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/rudraksh.dusad.1122)
+[![Github](https://img.shields.io/badge/TELEGRAM-Rudraksh-blue?style=for-the-badge&logo=telegram)](https://t.me/Rudraksh2211)
+
+
+## Visiter
+<img src="https://profile-counter.glitch.me/rudraksh_2211/count.svg" alt="Visitors">
