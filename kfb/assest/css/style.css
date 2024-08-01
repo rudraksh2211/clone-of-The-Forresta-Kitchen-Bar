@@ -1,0 +1,32 @@
+.rd{
+	margin-left: 420px;
+	border: 1px solid lightblack;
+	border-radius: 100px;
+	width: 317px;
+	height: 85px;
+}
+body{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.slider{
+	
+	width: 100%;
+	height: auto;
+		position: absolute;
+	left: 0;
+	right: 0;
+	background-color: lightgray;
+	border-top: 2px solid black;
+}
+.space{
+	 word-spacing:10px;
+}
+.image{
+   transition: transform 0.3s ease;
+}
+.image:hover{
+	 transform: scale(1.1); 
+}
+
+
